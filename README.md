@@ -8,7 +8,7 @@ It just shows the concept and is not expected to be used in production environme
 The project is partially inspired by a series of ECCMA webinars (https://eccma.org/forms/webinar), devoted to data quality in supply chain.
 There are a number of sources, explaining how material master data quality impacts business, 
 and there are a number of commercial and free solutions for improving of material master data quality.
-This project shows another one practical approach in this area.
+This project demonstrates another one practical approach in this area.
 
 Source of poor material master data quality.
 To be explained.
