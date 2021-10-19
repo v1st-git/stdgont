@@ -1,6 +1,6 @@
 # stdgont
 Short description of the project.
-Generate/use the Simplified Technical Dictionary Generic Ontology (STDGOnt) from/in OpenRefine operation JSON.
+Generate&use the Simplified Technical Dictionary Generic Ontology (STDGOnt) in OpenRefine operation JSON.
 
 Introduction.
 This project demonstrates a practical approach for reconciliation and enrichment of corporate material master data.
@@ -21,6 +21,11 @@ The proposed solution includes the following components:
 - Semantic Web publishing service/wrapper for SPARQL endpoint
 - Semantic Web fuzzy search service/wrapper for SPARQL endpoint
 - SPARQL endpoint
+
+Three basic use cases:
+- Use OpenRefine and R Shiny STDGOnt application to create and publish STDGOnt ontology for futher use in master data reconciliation and enrichment, based on fuzzy search
+- Use R Shiny STDGOnt application to generate JSON for a set of OpenRefine operations based on STDGOnt fuzzy seach web service
+- Use OpenRefine to get master data reconciled and structured by utilizing of JSON operations, created by R Shiny STDGOnt application
 
 Solution demonstration video.
 To be created.
