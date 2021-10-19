@@ -23,7 +23,7 @@ The proposed solution includes the following components:
 - SPARQL endpoint
 
 Three basic use cases:
-- Use OpenRefine and R Shiny STDGOnt application to create and publish STDGOnt ontology for futher use in master data reconciliation and enrichment, based on fuzzy search
+- Use OpenRefine and R Shiny STDGOnt application to create and publish STDGOnt ontology for further use in master data reconciliation and enrichment, based on fuzzy search
 - Use R Shiny STDGOnt application to generate JSON for a set of OpenRefine operations based on STDGOnt fuzzy seach web service
 - Use OpenRefine to get master data reconciled and structured by utilizing of JSON operations, created by R Shiny STDGOnt application
 
