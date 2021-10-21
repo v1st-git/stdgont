@@ -1,6 +1,6 @@
 # stdgont
 Short description of the project.
-Generate&use the Simplified Technical Dictionary Generic Ontology (STDGOnt) in OpenRefine operation JSON.
+Generate&use the Simplified Technical Dictionary Generic Ontology (STDGOnt) in OpenRefine operation JSON to reconcile and enrich material master data (concept demonstration only).
 
 Introduction.
 This project demonstrates a practical approach for reconciliation and enrichment of corporate material master data.
