@@ -16,11 +16,11 @@ To be explained.
 Solution design.
 The proposed solution includes the following components:
 - OpenRefine (previously Google Refine) application, https://openrefine.org/
-- R Shiny application to generate or reuse Simplified Technical Dictionary Generic Ontology (STDGOnt) JSON files and OpenRefine operation JSON 
-- Repository to keep and exchange by STDGOnt JSON files (this repository/project)
+- R Shiny application to generate or reuse Simplified Technical Dictionary Generic Ontology (STDGOnt) JSON files and OpenRefine operation JSON https://v1st.shinyapps.io/stdgont-app/
+- Repository to keep and exchange by STDGOnt JSON files (this repository/project) https://github.com/v1st-git/stdgont/
 - Semantic Web publishing service/wrapper for SPARQL endpoint
 - Semantic Web fuzzy search service/wrapper for SPARQL endpoint
-- SPARQL endpoint
+- SPARQL endpoint (internal service, is not available from Internet)
 
 Three basic use cases:
 - Use OpenRefine and R Shiny STDGOnt application to create and publish STDGOnt ontology for further use in master data reconciliation and enrichment, based on fuzzy search
