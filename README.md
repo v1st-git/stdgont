@@ -30,4 +30,4 @@ The proposed solution includes the following components:
 <li> Use R Shiny STDGOnt application to generate JSON for a set of OpenRefine operations based on STDGOnt fuzzy seach web service
 <li> Use OpenRefine to get master data reconciled and structured by utilizing of JSON operations, created by R Shiny STDGOnt application
 
-  <p><a href="https://youtube.com/watch?v=Uqsrp04erfM&feature=share">Solution demonstration video</a>, explaining how application can be used to solve typical problem, related to material master data cleansing.
+  <p><a href="https://youtube.com/watch?v=Uqsrp04erfM&feature=share">Solution demonstration video</a>, explaining how the application can be used to solve typical problem, related to material master data cleansing.
