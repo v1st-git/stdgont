@@ -1,5 +1,5 @@
 # stdgont
-Short description of the project.
+<p><b>Short description of the project.</b>
 Add Semantic Web ontology power to OpenRefine!
 (Proof of concept/demonstration purposes only).
 Generate&use the Simplified Technical Dictionary Generic Ontology (STDGOnt) in OpenRefine operation JSON.
