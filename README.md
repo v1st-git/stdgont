@@ -3,7 +3,7 @@
 <p><i>Add Semantic Web ontology power to OpenRefine!</i>
 <p><i>(Proof of concept/demonstration purposes only).</i>
 <p>Generate&use the Simplified Technical Dictionary Generic Ontology (STDGOnt) as OpenRefine operation JSON.
-For example, to reconcile and enrich corporate material master data.
+<p>For example, to reconcile and enrich corporate material master data.
 
 <p><b>Introduction.</b>
 This project demonstrates a practical approach for reconciliation and enrichment of source messy data, processed by OpenRefine.
