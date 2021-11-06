@@ -1,7 +1,7 @@
 # stdgont
 <p><b>Short description of the project.</b>
-<p>Add Semantic Web ontology power to OpenRefine!
-(Proof of concept/demonstration purposes only).
+<p><i>Add Semantic Web ontology power to OpenRefine!</i>
+<p><i>(Proof of concept/demonstration purposes only).</i>
 <p>Generate&use the Simplified Technical Dictionary Generic Ontology (STDGOnt) as OpenRefine operation JSON.
 For example, to reconcile and enrich corporate material master data.
 
@@ -30,4 +30,4 @@ The proposed solution includes the following components:
 <li> Use R Shiny STDGOnt application to generate JSON for a set of OpenRefine operations based on STDGOnt fuzzy seach web service
 <li> Use OpenRefine to get master data reconciled and structured by utilizing of JSON operations, created by R Shiny STDGOnt application
 
-  <p><a href="https://youtube.com/watch?v=Uqsrp04erfM&feature=share">Solution demonstration video</a>, explaining how application can be used to solve typical problem, related to material master data cleansing: 
+  <p><a href="https://youtube.com/watch?v=Uqsrp04erfM&feature=share">Solution demonstration video</a>, explaining how application can be used to solve typical problem, related to material master data cleansing.
