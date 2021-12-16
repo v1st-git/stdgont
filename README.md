@@ -23,7 +23,8 @@ The proposed solution includes the following components:
 <li> Github Repository to keep and exchange by STDGOnt JSON files <a href="https://github.com/v1st-git/stdgont/">(this repository/project)</a>
 <li> <a href="https://stdgont.uk.to/stdgont-openrefine-api-post1data">Semantic Web publishing service</a>/wrapper for SPARQL endpoint 
 <li> <a href="https://stdgont.uk.to/stdgont-fuzzy-search-api">Semantic Web fuzzy search service</a>/wrapper for SPARQL endpoint 
-<li> <a href="https://stdgont.uk.to/stdgont-openrefine-single-recon-api">OpenRefine reconciliation API</a> service (minimal set of features)
+<li> <a href="https://stdgont.uk.to/stdgont-openrefine-single-recon-api">Generic OpenRefine reconciliation API</a> service (minimal set of features)
+<li> <a href="https://stdgont.uk.to/stdgont-openrefine-qudt-recon-api">OpenRefine reconciliation API for QUDT units of mesurement</a> service (minimal set of features)
 <li> SPARQL endpoint (internal service, is not available from Internet)
 
   <p><b>Three basic use cases:</b>
@@ -33,3 +34,5 @@ The proposed solution includes the following components:
 
 <p><a href="https://youtube.com/watch?v=Uqsrp04erfM&feature=share">Solution demonstration video</a>, explaining how the application can be used to solve typical problem, related to material master data cleansing.
 <p><a href="https://youtu.be/NbZAMSR1XGc">OpenRefine reconciliation API demonstration video</a>, explaining how the application can be used to reconcile OpenRefine data column, containing Wikidata properties URI
+  <p><a href="https://youtube.com/watch?v=oJi2rscsCE8&feature=share">How to use STDGOnt service video</a> - to verify and reconcile of <a href="http://linkedmodel.org/catalog/qudt/1.1/">QUDT</a> units of measurement as <a href="https://stdgont.uk.to/stdgont-openrefine-qudt-recon-api">OpenRefine/QUDT reconciliation API</a>
+
