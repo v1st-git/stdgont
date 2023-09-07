@@ -1,6 +1,6 @@
 # stdgont
 <p><b>Short description of the project.</b>
-<p><i>Add Semantic Web ontology power to OpenRefine!</i>
+<p><i>Add Semantic Web ontology/Knowledge Graph power to OpenRefine!</i>
 <p><i>(Proof of concept/demonstration purposes only).</i>
 <p>Generate&use the Simplified Technical Dictionary Generic Ontology (STDGOnt) as OpenRefine operation JSON.
 <p>For example, to reconcile and enrich corporate material master data.
